@@ -11,7 +11,7 @@ public class do_while {
         do {
             System.out.println(num);
             num++;
-        }while (num<=4);
+        }while (num<=10);
 
         /*
         * Here in the above as num=6 is not satisfying the while condition,
