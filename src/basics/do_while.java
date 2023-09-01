@@ -17,5 +17,9 @@ public class do_while {
         * Here in the above as num=6 is not satisfying the while condition,
         * so at least once the code is executed.
         * */
+
+
+
+
     }
 }
