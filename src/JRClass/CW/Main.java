@@ -18,7 +18,7 @@ public class Main {
         System.out.println("Using the add2squares method from child class: " + productSq);
 
 
-        //Refer 9/6/23 - 7:56PM time explanation from the class recording.
+        //Refer 9/6/23 - 7:56PM time explanation
         //Using default scientificCalculator.java
         ScientificCalculator scientificCalculator1 = new ScientificCalculator();
         double result2 = scientificCalculator1.pythagTh(5.0,12.0);
